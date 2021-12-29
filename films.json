@@ -1,0 +1,7 @@
+{ "films": [
+  {"name": "Potter", "year": 2000,"genre": "detective", "duration": "2 hours", "director": "Bondarchuck"},
+  {"name": "Potter 2", "year": 2001,"genre": "detective", "duration": "3 hours", "director": "Tarantino"},
+  {"name": "Potter 3", "year": 2002,"genre": "detective", "duration": "4 hours", "director": "Nolan"},
+  {"name": "Potter 4", "year": 2003,"genre": "detective", "duration": "5 hours", "director": "Bondarchuck"}
+  ]
+}
